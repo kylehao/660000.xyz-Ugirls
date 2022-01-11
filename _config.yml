@@ -29,7 +29,7 @@ copyright:
 # Build settings
 markdown: kramdown
 permalink: /:title/
-paginate: 72
+paginate: 24
 paginate_path: /page:num/
 
 # Tracker
